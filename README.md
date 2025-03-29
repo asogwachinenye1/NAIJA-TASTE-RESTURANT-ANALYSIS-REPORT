@@ -1,22 +1,13 @@
 # NAIJA-TASTE-RESTURANT-ANALYSIS-REPORT
-This project analyzes sales data from Naija Tastes Restaurant, a fast-growing eatery in Lagos, Nigeria. Using python-based data analysis, the goal was to uncover insights into sales performance, customer behavior, and business trends. The findings support revenue optimization, improved customer engagement, and data-driven decision-making.
-
-Navigation Menu
-Sign in
-DataProfessor290
-/
-Naija-Tastes-Resturant-Sales-Analysis
-Public
-This project analyzes sales data from Naija Tastes Restaurant using SQL to uncover business insights. It includes data cleaning, revenue analysis, customer behavior insights, and sales trends to optimize decision-making and improve customer experience.
+This project analyzes sales data from Naija Tastes Restaurant using python to uncover business insights. It includes data cleaning, revenue analysis, customer behavior insights, and sales trends to optimize decision-making and improve customer experience.
 
 
 Resturant Analysis on python
 
-customers.csv
-
-products.csv
-
-sales.csv
+# Datasets
+* customers.csv
+* products.csv
+* sales.csv
 
 
 # Introduction
